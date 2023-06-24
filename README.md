@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16193
-Fork on GitHub
-4500
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">Engineer with cross-disciplinary skills connecting the dots in between - Computer Science, - Hardware Development, - Quantum Computing</h3>
 
